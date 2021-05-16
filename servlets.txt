@@ -1,0 +1,24 @@
+
+
+	
+	javax.servlet.*;  --->Servlet API --> Tomcat , Resin , Weblogic 
+
+	
+	javax.servlet.*;  // Http , FTP ,SMTP , UDP/IP
+
+	Interface:
+	Servlet , ServletRequest , ServletResponse , ServletConfig , ServletContext
+
+	Servlet(I) : init() , service() , destroy() ...
+	GenericServlet is a implementatio to the Servlet Interface
+
+
+	javax.servlet.http.*;
+
+	HttpServletRequest, HttpServletResponse (Intefaces)
+
+	HttpServlet , Cookie ,HttpSession (Classes)
+
+
+	jar , war , ear 
+	
